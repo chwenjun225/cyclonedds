@@ -6,5 +6,6 @@ gen.*
 .vs/
 .vscode/
 build/
+install/
 docs/manual/ddsc_api_docs/
 *~
